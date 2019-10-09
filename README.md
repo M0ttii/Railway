@@ -1,5 +1,5 @@
 # Railway
-######Java standalone API for realtime data transfer between WebServer and Spigot-/Proxyserver using SocketIO
+Java standalone API for realtime data transfer between WebServer and Spigot-/Proxyserver using SocketIO
 
 ## How does it work?
 The main idea behind this project is to simplify the communication between a WebServer (For example a webpanel) and a proxy/spigotserver. It provides several functions which can be used to work with realtime data transfer using SocketIO.
